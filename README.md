@@ -1,5 +1,4 @@
-twitter2cash in R
-
+Twitter2Cash in R
 ====
 
 A minimalist model that fetches a VIP's twitter feed without login, infers the VIP's mood about the company in the tweet, checks the quote and other information of the stock, and makes investing decisions. The decision making subroutine may be hooked to an online broker's API.
